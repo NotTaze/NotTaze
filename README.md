@@ -1,4 +1,5 @@
 <a href="https://github.com/Txzerr">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=Txzerr&style=flat-square&color=blueviolet" alt="Views">
   </p>
 </a>
