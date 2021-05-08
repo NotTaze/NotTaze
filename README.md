@@ -1,5 +1,4 @@
 <a href="https://github.com/Txzerr">
-  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Txzerr" alt="Views">
   </p>
 </a>
@@ -9,3 +8,4 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/757693577764798536.png" />
 </p>
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqxo&theme=highcontrast&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact)
