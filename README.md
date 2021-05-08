@@ -3,7 +3,7 @@
   </p>
 </a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txzerr&theme=highcontrast&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Txzerr&show_icons=true&theme=highcontrast" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Txzerr&theme=highcontrast&langs_count=4?exclude_repo=discord-file-webhook-upload&layout=compact" />
